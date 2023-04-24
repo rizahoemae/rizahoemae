@@ -12,5 +12,10 @@ Currently using [Vue.js](https://vuejs.org/) and [Tailwind CSS](https://tailwind
 
 Fav movie genres: mystery, thriller, horror, and comedy.
 
+I love to create small features, here are some examples:
+- [Instagram Caption Checker](https://github.com/rizahoemae/instagram-caption-checker)
+- soon!
+
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=rizahoemae&label=visitors&labelColor=%23ffffff&countColor=%23ffd9d9)
 
