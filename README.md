@@ -16,6 +16,7 @@ I love to create small features, here are some examples:
 - [Instagram Caption Checker](https://github.com/rizahoemae/instagram-caption-checker)
 - soon!
 
+I don't do much code for public repository -- usually, and i prefer more using gitlab! :D
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=rizahoemae&label=visitors&labelColor=%23ffffff&countColor=%23ffd9d9)
 
