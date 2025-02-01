@@ -14,6 +14,7 @@ Fav movie genres: mystery, thriller, horror, and comedy.
 
 I love to create small features, here are some examples:
 - [Instagram Caption Checker](https://github.com/rizahoemae/instagram-caption-checker)
+- [Exif Watermark Generator](https://github.com/rizahoemae/exif-watermark-generator)
 - soon!
 
 I don't do much code for public repository -- usually, and i prefer more using gitlab! :D
