@@ -2,11 +2,16 @@
 
 
 ## Mawaddatur Riza
+> or just Riza.
+
+#### Who am i ? 
+> well i have lots of hobbies and identities, but you can just identify me as: 
 
 - Frontend Web Developer 👩🏼‍💻
-- UI/UX designer 🎨
+- UI/UX Designer 🎨
+- (OTW) Flutter Dev 🚀
 
-Currently using [Vue.js](https://vuejs.org/) and [Tailwind CSS](https://tailwindcss.com/) 
+Specialized in [Vue.js](https://vuejs.org/). Currently learning [Flutter](https://flutter.dev).
 
 > Sometimes I sleep, sometimes I sing.
 
@@ -19,5 +24,8 @@ I love to create small features, here are some examples:
 
 I don't do much code for public repository -- usually, and i prefer more using gitlab! :D
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=rizahoemae&label=visitors&labelColor=%23ffffff&countColor=%23ffd9d9)
+### This is me if you even care
 
+![img](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazY0NW50czV6cHdueGV4emduNHNnMG14cmxiN2QxamQxZzQ0MTg1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XyuqO8Zi0yCqWXhhJd/giphy.gif)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=rizahoemae&label=visitors&labelColor=%23ffffff&countColor=%23ffd9d9)
