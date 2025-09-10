@@ -12,8 +12,12 @@
 - (OTW) Flutter Dev 🚀
 
 Specialized in [Vue.js](https://vuejs.org/). Currently learning [Flutter](https://flutter.dev).
+I believe Vue won't stop me from learning other stack such as [React](https://react.dev), [Angular](https://angular.dev), [Svelte](https://svelte.dev) etc.
+I also owning a small business that uses image processing and using [Python](https://www.python.org)! 🐍
 
-> Sometimes I sleep, sometimes I sing.
+Not only focusing on Frontend, I also learn about backend with stack such as [Express.js](https://expressjs.com), [Python](https://www.python.org) and currently learning [Golang](https://go.dev). ⚡️ 
+
+> Sometimes I sleep, sometimes I sing. But most of the time manually vibe coding. 🤓
 
 Fav movie genres: mystery, thriller, horror, and comedy.
 
@@ -22,10 +26,11 @@ I love to create small features, here are some examples:
 - [Exif Watermark Generator](https://github.com/rizahoemae/exif-watermark-generator)
 - soon!
 
-I don't do much code for public repository -- usually, and i prefer more using gitlab! :D
+I don't do much code for public repository --usually, and i prefer more using gitlab! :D
 
 ### This is me if you even care
+> silly.
 
-![img](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazY0NW50czV6cHdueGV4emduNHNnMG14cmxiN2QxamQxZzQ0MTg1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XyuqO8Zi0yCqWXhhJd/giphy.gif)
+![img](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExams0d3J3bTA1d3ZjMDlra2J1MDM3dTl0NXlhcHJ4MXVyNnVtenJ6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95t6crjjp7Y6sCiZeS/giphy.gif)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=rizahoemae&label=visitors&labelColor=%23ffffff&countColor=%23ffd9d9)
