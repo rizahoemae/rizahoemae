@@ -26,27 +26,19 @@ Not only focusing on Frontend, I also learn about backend with stack such as [Ex
 <div style="display:flex; gap: 0.5rem">
 
 ![Vue.Js](https://img.shields.io/badge/Vue%20js-efa9b8?style=for-the-badge&logo=vuedotjs&logoColor=white)
-
 ![Nuxt.Js](https://img.shields.io/badge/nuxt%20js-efa9b8?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-
 ![Quasar](https://img.shields.io/badge/Quasar-efa9b8?style=for-the-badge&logo=quasar&logoColor=white)
-
 ![Next.Js](https://img.shields.io/badge/next%20js-efa9b8?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-efa9b8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
 ##### Backend 
-<div style="display:flex;  gap: 0.5rem">
+<div style="display:flex; gap: 0.5rem">
 
 ![Express.Js](https://img.shields.io/badge/Express%20js-efa9b8?style=for-the-badge&logo=express&logoColor=white)
-
-
 ![NestJs](https://img.shields.io/badge/nestjs-efa9b8?style=for-the-badge&logo=nestjs&logoColor=white)
-
 ![Django](https://img.shields.io/badge/Django-efa9b8?style=for-the-badge&logo=django&logoColor=white)
-
 ![Flask](https://img.shields.io/badge/Flask-efa9b8?style=for-the-badge&logo=flask&logoColor=white)
 
 
@@ -69,11 +61,8 @@ I don't do much code for public repository --usually, and i prefer more using gi
 <div style="display:flex;  gap: 0.5rem">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-619067?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mawariz/)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-619067?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/rizahoemae/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-619067?style=for-the-badge&logo=instagram&logoColor=white)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhtNnNnMmdra3gzaGUzdmtvcWVnaG1jN2dubDJjYjA0M3c3aGxoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VBGQgkx0yVmJUmfkWy/giphy.gif)
-
 [![X](https://img.shields.io/badge/x-619067?style=for-the-badge&logo=x&logoColor=white)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhtNnNnMmdra3gzaGUzdmtvcWVnaG1jN2dubDJjYjA0M3c3aGxoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VBGQgkx0yVmJUmfkWy/giphy.gif)
 </div> 
 
